@@ -1,7 +1,28 @@
 {
   "name": "project-setup-template",
   "version": "0.1.0",
-  "private": true,
+  "description": "A modern, production-ready Next.js template with Clerk authentication, Tailwind CSS, TypeScript, and best practices built-in",
+  "keywords": [
+    "nextjs",
+    "template",
+    "typescript",
+    "tailwindcss",
+    "clerk",
+    "authentication",
+    "boilerplate",
+    "starter"
+  ],
+  "homepage": "https://github.com/karelaking/project-setup-template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karelaking/project-setup-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karelaking/project-setup-template/issues"
+  },
+  "author": "Karela King <dev.mradulkumar@gmail.com>",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
